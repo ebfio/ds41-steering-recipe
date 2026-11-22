@@ -1,0 +1,36 @@
+# One prompt per line for verify/decode_rate.py --prompts-file: stream k sends line k.
+# Thirty-two prompts that have little in common: code in eight languages, prose in
+# fourteen, tables, proofs, verse, dialogue. Each asks for more than 1,000 tokens.
+# The first is the README's train prompt, so one stream is the published case.
+A train leaves at 60 mph. Two hours later a second train leaves the same station at 90 mph on a parallel track. At what distance does the second catch the first? Reason step by step before answering.
+Write a complete, commented Python implementation of a red-black tree with insert, delete and an in-order iterator, then explain each rotation case.
+Explica con todo detalle, en español, cómo funciona la fotosíntesis: las reacciones luminosas, el ciclo de Calvin y qué limita su rendimiento. Escribe al menos diez párrafos.
+Écris en français un long récit de voyage à travers la Bretagne en hiver, en décrivant les paysages, les villages, la cuisine et les gens rencontrés, sur au moins douze paragraphes.
+Write a Rust program for a multithreaded TCP echo server with graceful shutdown, with a comment on every function, then walk through the ownership decisions.
+请用中文详细介绍丝绸之路的历史：它的起源、主要路线、交易的货物、沿途的城市以及它对东西方文化交流的影响，至少写十段。
+Schreibe auf Deutsch einen ausführlichen Aufsatz über die industrielle Revolution: Ursachen, wichtige Erfindungen, soziale Folgen und Kritik, mit mindestens zwölf Absätzen.
+Design a relational schema for a public library (members, books, copies, loans, fines) in SQL, then write twenty example queries with an explanation of each.
+江戸時代の文化について、町人文化、浮世絵、歌舞伎、俳諧、出版を中心に、日本語で詳しく説明してください。少なくとも十段落で書いてください。
+Derive the quadratic formula by completing the square, state every algebraic step, then solve eight example equations with it, including ones with complex roots.
+Write a JavaScript module that implements a debounced, cancellable fetch queue with retries and exponential backoff, with JSDoc comments, then explain each design choice.
+한국어로 한글의 창제 과정과 원리, 그리고 그것이 한국 사회에 끼친 영향을 열 단락 이상으로 자세히 설명해 주세요.
+Explain how a four-stroke petrol engine works, part by part and stroke by stroke, then compare it with a diesel engine and an electric motor in a long structured answer.
+Напишите по-русски подробный очерк об истории освоения космоса: от первых ракет до орбитальных станций, не менее двенадцати абзацев.
+Produce a JSON document describing a fictional company's 40 employees: id, name, department, title, start date, manager id and three skills each. Output only the JSON.
+Write a long narrative poem in rhymed English couplets about a lighthouse keeper through one stormy night, at least sixty lines.
+Write a C implementation of a hash map with open addressing and Robin Hood probing, with resizing, and comment on every function and on the invariants.
+Explique em português, com muitos detalhes, como funciona o sistema imunológico humano: imunidade inata e adaptativa, anticorpos, memória e vacinas. Escreva pelo menos dez parágrafos.
+Give a detailed week-long itinerary for a first visit to Japan, day by day, with transport between cities, costs in a table, and alternatives for rain.
+Spiega in italiano, in modo dettagliato e in almeno dieci paragrafi, la storia dell'opera lirica da Monteverdi a Puccini.
+Write a Go program that crawls a list of URLs concurrently with a worker pool, rate limiting and context cancellation, with comments, then explain the concurrency model.
+اشرح باللغة العربية وبالتفصيل تاريخ علم الجبر منذ الخوارزمي حتى العصر الحديث، في عشر فقرات على الأقل.
+Explain double-entry bookkeeping from first principles, then record a month of twenty transactions for a small bakery in a ledger table and close the books.
+हिंदी में विस्तार से समझाइए कि मानसून कैसे बनता है और भारतीय कृषि तथा अर्थव्यवस्था पर उसका क्या प्रभाव पड़ता है। कम से कम दस अनुच्छेद लिखिए।
+Write a Bash script that backs up a directory tree incrementally with rsync and hard links, rotates old snapshots and logs every step, then explain each line.
+Write a dialogue of at least forty exchanges between a sceptical detective and a nervous witness about a missing painting, with stage directions.
+Prove that the square root of 2 is irrational, then that there are infinitely many primes, then the AM-GM inequality for two numbers, each proof in full with every step justified in LaTeX.
+Leg in het Nederlands uitvoerig uit hoe de Deltawerken zijn ontstaan: de watersnood van 1953, het ontwerp, de bouw en de gevolgen voor natuur en economie, in minstens tien alinea's.
+Write a Haskell module for a parser combinator library (Functor, Applicative, Monad, Alternative instances) and use it to parse arithmetic expressions, with comments.
+Describe how to bake sourdough bread from starter to loaf: schedule, temperatures, hydration arithmetic, common failures and their fixes, in a long step-by-step guide.
+Türkçe olarak İstanbul'un tarihini Bizans'tan günümüze kadar ayrıntılı biçimde, en az on paragrafta anlatın.
+Convert this recipe to a markdown table of ingredients with metric and US units, then scale it to 3, 7 and 12 servings in separate tables: 500 g flour, 350 g water, 10 g salt, 5 g yeast, 30 g olive oil, 15 g sugar.
