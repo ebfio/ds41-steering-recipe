@@ -136,6 +136,14 @@ python3 verify/decode_rate.py --url http://127.0.0.1:8001 --train-prompt --token
 
 Every number above is in `results/` as the receipt that produced it.
 
+## Credits
+
+Built on **[`garnermccloud/dgx-station-recipes`](https://github.com/garnermccloud/dgx-station-recipes)**
+by **Garner McCloud** (MIT) — the MegaMoE boundary, the W1/W3/W6 kernels, the `peer3` RTX expert
+tier, the engram offload, the launcher and the checks are all his. The steering sidecar format is
+from **`NVIDIA/hyperflare-inference` PR #404** (`jcartu`), with the published vectors from
+**`jcartu/WARMIND-1017-Steering-Sidecar`**. See `ACKNOWLEDGEMENTS.md`.
+
 ## Licence
 
 The port (`port/`, `patches/`) is MIT. Their recipe and kernels keep their own licence — clone
