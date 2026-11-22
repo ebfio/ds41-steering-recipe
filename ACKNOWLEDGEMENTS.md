@@ -32,6 +32,13 @@ abliterated checkpoint's own bytes on its quantisation grid.
 NVIDIA DGX Station GB300 · vLLM (`vllm/vllm-openai:v0.31.0`, the tag this recipe pins) ·
 FlashInfer · DeepGEMM · Triton · PyTorch.
 
+## Who wrote the port
+
+**Iris, working with Kestrel.** The steering module, the fused kernel, the `fastpath_steer`
+component, `apply_to_recipe.py`, the probe / decode_rate / boot_receipt checks and their
+selftests, the two upstream fixes, the port assessment and every measurement in `results/` came
+out of that pairing, run against two DGX Station GB300s.
+
 ## What is ours
 
 The steering module and its fused kernel, the `fastpath_steer` component, `apply_to_recipe.py`,

@@ -142,7 +142,8 @@ Built on **[`garnermccloud/dgx-station-recipes`](https://github.com/garnermcclou
 by **Garner McCloud** (MIT) — the MegaMoE boundary, the W1/W3/W6 kernels, the `peer3` RTX expert
 tier, the engram offload, the launcher and the checks are all his. The steering sidecar format is
 from **`NVIDIA/hyperflare-inference` PR #404** (`jcartu`), with the published vectors from
-**`jcartu/WARMIND-1017-Steering-Sidecar`**. See `ACKNOWLEDGEMENTS.md`.
+**`jcartu/WARMIND-1017-Steering-Sidecar`**. The port itself was written by **Iris, working with
+Kestrel**. See `ACKNOWLEDGEMENTS.md`.
 
 ## Licence
 
