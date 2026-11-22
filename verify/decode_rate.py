@@ -573,7 +573,7 @@ def show_each(index: int, text: str, runs: list[dict]) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=(__doc__ or "").split("\n")[0])
-    parser.add_argument("--url", help="API base, e.g. http://10.0.42.51:8001")
+    parser.add_argument("--url", help="API base, e.g. http://127.0.0.1:8001")
     parser.add_argument("--read", metavar="FILE",
                         help="print the table of a receipt written with --json, the lines under each row included; "
                              "no request is sent")
